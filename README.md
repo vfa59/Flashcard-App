@@ -11,13 +11,13 @@ How to Run the Web App
         - Install Flask and Flask-CORS by running: pip install flask flask-cors
 
     Run Flask Server:
-        - Navigate to the directory containing app.py: cd backend
+        - Open a terminal and navigate to the directory containing app.py: cd backend
         - Start the backend with the command: python app.py
         - The backend should now be running on http://localhost:5000
 
 2. Set Up the Frontend
     
-    - Navigate to the frontend directory (where index.html is located): cd frontend
+    - On a new terminal, navigate to the frontend directory (where index.html is located): cd frontend
     - Start the HTTP server with the command: python -m http.server 8000
 
 3. Open the App in your Browser
