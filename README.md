@@ -18,7 +18,7 @@ How to Run the Web App
 2. Set Up the Frontend
     
     - Navigate to the frontend directory (where index.html is located): cd frontend
-    = Start the HTTP server with the command: python -m http.server 8000
+    - Start the HTTP server with the command: python -m http.server 8000
 
 3. Open the App in your Browser
     
